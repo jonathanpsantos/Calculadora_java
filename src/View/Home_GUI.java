@@ -158,6 +158,7 @@ public class Home_GUI extends javax.swing.JFrame {
 
     private void diviActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_diviActionPerformed
         Model.Funcoes_DAO.div();
+        
     }//GEN-LAST:event_diviActionPerformed
 
     private void somaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_somaActionPerformed
